@@ -1,0 +1,9 @@
+*{
+  margin: 0px;
+  padding: 0px;  
+}
+/* valor padrão da div */
+div{
+    float: left;
+    background-color: orange;
+}
